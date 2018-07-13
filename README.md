@@ -1,4 +1,4 @@
-# Acoustic-Room-Recreation
+# Acoustic-Room-Recreation-Python
 
 •	Created an Android application that utilizes an external microphone to capture sound from a speaker and extract room impulse response by a peak detection algorithm.
 •	Sorted returned echoes and eliminated redundant combinations of echoes.
